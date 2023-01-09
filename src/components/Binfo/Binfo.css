@@ -1,0 +1,130 @@
+.main {
+    display: flex;
+
+}
+
+.main__right {
+    color: #C9AC8C;
+}
+
+.main__right {
+    margin-left: 55px;
+    width: 50vw;
+    font-family: Rotterburg Stylish FREE;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.main__right p {
+    font-family: Steinbeck;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
+p b {
+    color: white;
+}
+
+.l{
+    margin-top: 50px;
+}
+.naqsh {
+    margin-left: -10px;
+    margin-top: -100px;
+    position: absolute;
+}
+
+.bib {
+    margin: 0 10px;
+}
+
+.main__right__footer {}
+
+.fd {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fd p {
+    font-family: Steinbeck;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.iv {
+    height: 2px;
+    width: 500px;
+    margin-top: -8px;
+    margin-left: 150px;
+    border: 1px solid #C9AC8C;
+}
+
+.bio {
+    margin-left: 25px;
+    position: relative;
+}
+
+.lo {
+    margin-top: 50px;
+    font-family: Steinbeck;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.or {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -60px;
+}
+
+.or li {
+    margin: 0 30px;
+    color: white;
+    font-family: Steinbeck;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.button {
+    position: absolute;
+    height: 48px;
+    width: 200px;
+    margin-left: 457px;
+    margin-top: -52px;
+    padding: 16px 32px 16px 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 32px;
+    gap: 10px;
+    font-family: 'Steinbeck';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #3C2710;
+    background: #C9AC8C;
+    border: none;
+}

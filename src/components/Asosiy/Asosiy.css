@@ -1,0 +1,128 @@
+.Asosiy {
+    width: 97vw;
+    text-align: center;
+    margin-top: 147px;
+    flex-wrap: wrap;
+}
+
+.h2 {
+    height: 34px;
+    width: 322px;
+    color: #C9AC8C;
+    margin: 0 auto;
+    font-family: Rotterburg Stylish FREE;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.temuriy{
+    display: flex;
+    justify-content: space-around;
+}
+
+.temuriy li {
+    width: 60vw;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+    border: none;
+    color: #C9AC8C;
+}
+
+.temuriy__ {
+    font-family: Steinbeck;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    cursor: pointer;
+    margin-left: -40px;
+    height: 120vw;
+    text-align: center;
+    border: none;
+    background-color: transparent;
+}
+.bd{
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 95px;
+    background-image: url(../../img/Frame.png);
+   
+   
+}
+.b{
+    position: absolute;
+    margin-top: 190px;
+}
+
+.card__li {
+    height: 236px;
+    width: 175px;
+    border-radius: 15px;
+    color: #C9AC8C;
+    margin: 50px 40px;
+    background: linear-gradient(209.09deg, #191919 -1.68%, #212121 135.36%);
+    cursor: pointer;
+}
+.category__list{
+    position: relative;
+    width: 50%;
+    display: flex;
+    margin: 0 auto; 
+    background-color: transparent;
+    justify-content: left;
+    padding: 10px;
+}
+.bi {
+    margin-right: 10px;
+}
+
+.h6 {
+    color: white;
+}
+
+.foter {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.scr {
+    height: 132.18551635742188px;
+    width: 173.9833526611328px;
+    left: -0.1943359375px;
+    top: -0.4306640625px;
+    border-radius: [object Object]px;
+    object-fit: cover;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.push {
+    display: flex;
+    justify-content: start;
+}
+
+.btn__active{
+    color: #C9AC8C;
+    background-color: transparent;
+    border: none;
+    display: flex;
+    flex-direction: column;
+}
+.btn__active ::after{
+    margin-top: 10px;
+    width: 50%;
+    padding: 1px;
+    background: #C9AC8C;
+}
+.category__list button{
+    margin: 0 80px;
+}

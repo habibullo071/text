@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: scroll;
+    width: 100vw;
+    background-color: #191919;
+    flex-wrap: wrap;
+}
+.contaner{
+    margin: 0 auto;
+    width: 97vw;
+}
+ul{
+    list-style-type: none;
+}

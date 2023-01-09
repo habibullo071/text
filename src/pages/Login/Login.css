@@ -1,0 +1,39 @@
+.Login {
+    margin-left: -20px;
+    width: 100%;
+    height: 48vw;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input {
+    margin-top: 10px;
+    height: 46px;
+    width: 330px;
+    border-radius: 10px;
+}
+
+.inp {
+    margin-top: -35%;
+    margin-left: 63%;
+    height: 100%;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+}
+
+.login__img {
+    width: 100%;
+    height: 100%;
+    background: #C9AC8CED;
+}
+
+.bnt {
+    margin-top: 10px;
+    height: 46px;
+    max-width: 300px;
+    border-radius: 99px;
+    background: #152540;
+    color: white;
+}

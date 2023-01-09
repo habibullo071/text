@@ -1,0 +1,59 @@
+.Asosiy1 {
+    width: 97vw;
+    text-align: center;
+    margin-top: 147px;
+    flex-wrap: wrap;
+}
+
+.h2 {
+    height: 34px;
+    width: 322px;
+    color: #C9AC8C;
+    margin: 0 auto;
+    font-family: Rotterburg Stylish FREE;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.temuriy {
+    width: 60vw;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin: 20px auto;
+}
+
+.temuriy__ {
+    font-family: Steinbeck;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+
+.rasm {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    width: 97vw;
+    flex-wrap: wrap;
+    height: 70vw;
+    text-align: center;
+}
+
+.car__li {
+    height: 321px;
+    width: 173px;
+    border-radius: 15px;
+    color: #C9AC8C;
+    margin: 40px;
+    background: linear-gradient(209.09deg, #191919 -1.68%, #212121 135.36%);
+}
+
+.car__li img {
+    height: 230px;
+}
